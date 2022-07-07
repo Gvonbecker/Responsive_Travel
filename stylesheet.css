@@ -1,0 +1,81 @@
+
+header{
+  align-items: center;
+  text-align: center;
+  font-family:serif;
+  letter-spacing: 1px;
+  font-size: 250%;
+
+
+  color: white;
+  background-color: black;
+  text-align: left;
+  padding-bottom: -5px;
+
+
+
+}
+.box{
+  background-image: url(pexels-anthony-waymouth-2586066.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  width: 100%;
+  padding: 100px;
+
+}
+
+.container{
+  width:90%;
+  margin:auto;
+  max-width: 1200px;
+  background-color: black;
+  color: white;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+section{
+  width: 30%;
+}
+
+img{
+  width: 100%;
+  height: auto;
+  margin: inherit;
+
+}
+h1{
+  text-align: center;
+  font-size: 50px;
+
+}
+
+.traveler {
+  width:90%;
+  margin:auto;
+  max-width: 1200px;
+  background-color: grey;
+  color: white;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+}
+.traveler p {
+  font-style: italic;
+}
+footer{
+  text-align: center;
+  background-color: black;
+  color: white;
+  width:90%
+  padding:10px;
+
+}
+
+
+}
